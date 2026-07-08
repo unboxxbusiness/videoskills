@@ -1,0 +1,214 @@
+{
+  "competitors": [
+    {
+      "name": "Matt Wolfe",
+      "handle": "@mwtg",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI News"
+    },
+    {
+      "name": "AI Explained",
+      "handle": "@ai-explained-official",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI News"
+    },
+    {
+      "name": "All About AI",
+      "handle": "@AllAboutAI",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI Tools"
+    },
+    {
+      "name": "TheAIGRID",
+      "handle": "@TheAIGRID",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI News"
+    },
+    {
+      "name": "Future Tools",
+      "handle": "@FutureTools",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI Tools"
+    },
+    {
+      "name": "Liam Ottley",
+      "handle": "@LiamOttley",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Automation"
+    },
+    {
+      "name": "Nate Herk",
+      "handle": "@NateHerk",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Automation"
+    },
+    {
+      "name": "Greg Isenberg",
+      "handle": "@gisenberg",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI Business"
+    },
+    {
+      "name": "The AI Advantage",
+      "handle": "@TheAIAdvantage",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI Tools"
+    },
+    {
+      "name": "Skill Leap AI",
+      "handle": "@SkillLeapAI",
+      "channel_id": "",
+      "priority": 1,
+      "category": "AI Careers"
+    },
+    {
+      "name": "NetworkChuck",
+      "handle": "@NetworkChuck",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Coding AI"
+    },
+    {
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Coding AI"
+    },
+    {
+      "name": "Cole Medin",
+      "handle": "@ColeMedin",
+      "channel_id": "",
+      "priority": 2,
+      "category": "AI Agents"
+    },
+    {
+      "name": "AI Jason",
+      "handle": "@AIJason",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Automation"
+    },
+    {
+      "name": "Kallaway",
+      "handle": "@kallaway",
+      "channel_id": "",
+      "priority": 2,
+      "category": "AI News"
+    },
+    {
+      "name": "Prompt Engineering",
+      "handle": "@PromptEngineering",
+      "channel_id": "",
+      "priority": 2,
+      "category": "AI Tools"
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "channel_id": "",
+      "priority": 2,
+      "category": "AI News"
+    },
+    {
+      "name": "AssemblyAI",
+      "handle": "@AssemblyAI",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Coding AI"
+    },
+    {
+      "name": "LangChain",
+      "handle": "@LangChain",
+      "channel_id": "",
+      "priority": 2,
+      "category": "AI Agents"
+    },
+    {
+      "name": "n8n",
+      "handle": "@n8n-io",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Automation"
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Google AI",
+      "handle": "@GoogleAI",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Anthropic",
+      "handle": "@AnthropicAC",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Microsoft Developer",
+      "handle": "@MicrosoftDeveloper",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@HuggingFace",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "ElevenLabs",
+      "handle": "@ElevenLabsIO",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Runway",
+      "handle": "@RunwayApp",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Perplexity",
+      "handle": "@PerplexityAI",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Notion",
+      "handle": "@Notion",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    },
+    {
+      "name": "Zapier",
+      "handle": "@Zapier",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Official Channel"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "competitors": [
+    {
+      "name": "Tricky Man",
+      "handle": "@TrickyMan",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Education"
+    },
+    {
+      "name": "Yamee Thakkar",
+      "handle": "@YameeThakkar",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Education"
+    },
+    {
+      "name": "Kushal Vijay",
+      "handle": "@KushalVijay",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Education"
+    },
+    {
+      "name": "Students Can I Help You",
+      "handle": "@studentscanihelpyou",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Education"
+    },
+    {
+      "name": "Careers360",
+      "handle": "@Careers360",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Education"
+    },
+    {
+      "name": "CollegeDekho",
+      "handle": "@CollegeDekho",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Admissions"
+    },
+    {
+      "name": "Collegedunia",
+      "handle": "@collegedunia",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Admissions"
+    },
+    {
+      "name": "Shiksha",
+      "handle": "@shikshadotcom",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Admissions"
+    },
+    {
+      "name": "WeMakeScholars",
+      "handle": "@WeMakeScholars",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Scholarships"
+    },
+    {
+      "name": "Internshala",
+      "handle": "@internshala",
+      "channel_id": "",
+      "priority": 1,
+      "category": "Internships"
+    },
+    {
+      "name": "College Wallah",
+      "handle": "@CollegeWallahOfficial",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Career"
+    },
+    {
+      "name": "Apna College",
+      "handle": "@ApnaCollegeOfficial",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Career"
+    },
+    {
+      "name": "Coding Ninjas",
+      "handle": "@CodingNinjas",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Career"
+    },
+    {
+      "name": "LeapScholar",
+      "handle": "@LeapScholar",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Study Abroad"
+    },
+    {
+      "name": "College Vidya",
+      "handle": "@collegevidya",
+      "channel_id": "",
+      "priority": 2,
+      "category": "Admissions"
+    },
+    {
+      "name": "Lovely Professional University",
+      "handle": "@lpuofficial",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Private University"
+    },
+    {
+      "name": "Chandigarh University",
+      "handle": "@ChandigarhUniversity",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Private University"
+    },
+    {
+      "name": "UPES",
+      "handle": "@UPESofficial",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Private University"
+    },
+    {
+      "name": "Bennett University",
+      "handle": "@BennettUniversity",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Private University"
+    },
+    {
+      "name": "Manipal University Jaipur",
+      "handle": "@ManipalaUniversityJaipur",
+      "channel_id": "",
+      "priority": 3,
+      "category": "Private University"
+    }
+  ]
+}
