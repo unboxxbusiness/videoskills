@@ -1,0 +1,5 @@
+# Ignore sensitive environment configs containing API keys
+.env
+
+# Explicitly track Antigravity custom agent configurations and skills
+!.agents/
